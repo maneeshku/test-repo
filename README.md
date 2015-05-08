@@ -8,7 +8,7 @@ this is where the details for the secondary headings will go
 This is the section for 3rd level headings
 
 So far we have three levels
-    * Level 1
-    * Level 2
-    * Level 3
+* Level 1
+* Level 2
+* Level 3
 
